@@ -268,10 +268,9 @@ p{
  }
 
 body{
-    background-color: #F7F8FA;
     background-image: url('img/back.jpg');
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100%;
     margin: 0 ;
     padding: 0 ;
