@@ -28,10 +28,20 @@
     color: #247900;
     background-color: #f5f5f5;
 }
+
 .logo{
     width: 191px;
     height: 57px;
 }
+
+@media only screen and (max-width: 450px){
+
+.logo{
+    width: 120px;
+    height: 57px;
+}
+}
+
  a:hover {
     background-color:#316DC3;
   
@@ -275,6 +285,11 @@ body{
     margin: 0 ;
     padding: 0 ;
 }
+
+.ctl{
+    padding-right: 8em;
+}
+
 p{
     padding: 20px;
     color: whitesmoke;
