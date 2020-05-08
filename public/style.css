@@ -41,7 +41,14 @@
     border-radius: 20px;
     font-size: 15px;
 }
-
+#myVideo{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
 ul > li>a:active {
     background-color:#316DC3;
     font-size: 13px;
@@ -267,15 +274,7 @@ p{
     box-shadow: 10px 10px 8px blue;
  }
 
-body{
-    background: url('img/back/7.jpg') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-attachment: fixed;
-    
-}
+
 p{
     padding: 20px;
     color: whitesmoke;
