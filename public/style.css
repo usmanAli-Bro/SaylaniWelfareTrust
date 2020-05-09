@@ -7,6 +7,11 @@
     align-items: center;
     justify-content: space-around;
 }
+.shad1{
+background-color: black;
+opacity: 0.6;
+margin-top: 10px;
+}
 .nav
 {
     background-color: teal;
