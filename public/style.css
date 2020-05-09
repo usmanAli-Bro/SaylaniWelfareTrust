@@ -10,7 +10,7 @@
 
 .shad1{
 background-color: black;
-opacity: 0.6;
+opacity: 0.7;
 margin-top: 10px;
 }
 
@@ -79,7 +79,7 @@ ul > li>a:active {
     opacity: 0.6;
 }
 .nav{
-    opacity: 0.6;
+    opacity: 0.7;
 }
 
 ul > li>a:hover {
@@ -130,7 +130,7 @@ ul > li>a:hover {
     justify-content: center;
     margin-top: 10px;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 
@@ -192,7 +192,7 @@ p{
 .cal{
     display: flex;
     background-color:darkslategrey;
-    opacity: 0.6;
+    opacity: 0.7;
     margin-top: 150px;
     align-content: space-between;
     justify-content: space-around;
@@ -262,7 +262,7 @@ p{
     align-items: center;
     flex-wrap: wrap;
     background-color: darkslategrey;
-    opacity: 0.6;
+    opacity: 0.7;
 }
 
 
@@ -413,7 +413,7 @@ a:hover{
 }
 .cont1{
     background-color:black;
-    opacity: 0.5;
+    opacity: 0.7;
     position: absolute;
     left: 0;
     top: 0;
